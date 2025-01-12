@@ -30,13 +30,13 @@
 12. 12/01 - [컴퓨터 네트워킹에서 OSI 7계층 모델에 대해 설명해주세요.]()
 13. 12/11 - [HTTP프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/13.HTTP%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20HTTP1.1%EA%B3%BC%20HTTP2%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 14. 12/11 - [TCP와 UDP의 특징과 차이점에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/14.%20TCP%EC%99%80%20UDP%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
-15. 12/11 - [소켓 통신에 대해 설명해주세요.]()
-16. 12/19 - [REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.]()
-17. 12/19 - [REST API에서 HTTP 메서드들의 차이점을 설명해주세요.]()
-18. 12/19 - [HTTP 상태 코드에 대해서 설명해주세요.]()
+15. 12/11 - [소켓 통신에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/12.%20%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
+16. 12/19 - [REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/16.%20REST%20API%EC%99%80%20iOS%EC%97%90%EC%84%9C%EC%9D%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%9A%94%EC%B2%AD%20%EB%B0%8F%20%EC%9D%91%EB%8B%B5%20%EC%B2%98%EB%A6%AC%20%EB%B0%A9%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
+17. 12/19 - [REST API에서 HTTP 메서드들의 차이점을 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/17.%20REST%20API%EC%97%90%EC%84%9C%20HTTP%20%EB%A9%94%EC%84%9C%EB%93%9C%EB%93%A4%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
+18. 12/19 - [HTTP 상태 코드에 대해서 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/18.HTTP%20%EC%83%81%ED%83%9C%20%EC%BD%94%EB%93%9C%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
 19. 12/27 - [iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.]()
 20. 12/27 - [PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.]()
-21. 1/11 - [메모리 정렬(Alignment)이 성능에 미치는 영향은 무엇인가요?]()
+21. 1/11 - [iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/21.%20iOS%EC%97%90%EC%84%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%82%AC%EC%9D%B4%EC%A6%88%EC%99%80%20%EA%B4%80%EB%A0%A8%EB%90%9C%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EA%B3%A0%EB%A0%A4%20%EC%82%AC%ED%95%AD%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
 22. 1/11 - [iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.]()
 
 ## 🏝 커밋 규칙
