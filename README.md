@@ -31,6 +31,13 @@
 13. 12/11 - [HTTP프로토콜의 특징과 HTTP1.1과 HTTP2의 차이점을 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/13.HTTP%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20HTTP1.1%EA%B3%BC%20HTTP2%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 14. 12/11 - [TCP와 UDP의 특징과 차이점에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/14.%20TCP%EC%99%80%20UDP%EC%9D%98%20%ED%8A%B9%EC%A7%95%EA%B3%BC%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 15. 12/11 - [소켓 통신에 대해 설명해주세요.]()
+16. 12/19 - [REST API와 iOS에서의 네트워크 요청 및 응답 처리 방법에 대해 설명해주세요.]()
+17. 12/19 - [REST API에서 HTTP 메서드들의 차이점을 설명해주세요.]()
+18. 12/19 - [HTTP 상태 코드에 대해서 설명해주세요.]()
+19. 12/27 - [iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.]()
+20. 12/27 - [PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.]()
+21. 1/11 - [메모리 정렬(Alignment)이 성능에 미치는 영향은 무엇인가요?]()
+22. 1/11 - [iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.]()
 
 ## 🏝 커밋 규칙
 
