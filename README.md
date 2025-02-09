@@ -37,7 +37,11 @@
 19. 12/27 - [iOS에서 이미지 파일 포맷(PNG, JPEG 등)과 각 포맷의 특징에 대해 설명해주세요.]()
 20. 12/27 - [PNG 파일이 어떻게 저장되고 구성되는지 설명해주세요.]()
 21. 1/11 - [iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/21.%20iOS%EC%97%90%EC%84%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%82%AC%EC%9D%B4%EC%A6%88%EC%99%80%20%EA%B4%80%EB%A0%A8%EB%90%9C%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EA%B3%A0%EB%A0%A4%20%EC%82%AC%ED%95%AD%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
-22. 1/11 - [iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.]()
+22. 1/11 - [iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/22.%20iOS%20%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4%EC%9D%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%A0%9C%EC%95%BD%EA%B3%BC%20%EC%95%B1%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EC%A0%9C%ED%95%9C%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)
+23. 1/18 - [알고리즘의 시간 복잡도와 공간 복잡도의 개념, 그리고 빅오 표기법에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/23.%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98%20%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%99%80%20%EA%B3%B5%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EC%9D%98%20%EA%B0%9C%EB%85%90%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EB%B9%85%EC%98%A4%20%ED%91%9C%EA%B8%B0%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.)
+24. 1/18 - [자주 사용되는 정렬 알고리즘(예: 퀵 정렬, 병합 정렬)의 동작 원리와 시간 복잡도를 설명해주세요](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/24.%EC%9E%90%EC%A3%BC%20%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94%20%EC%A0%95%EB%A0%AC%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98(%EC%98%88%3A%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%2C%20%EB%B3%91%ED%95%A9%20%EC%A0%95%EB%A0%AC)%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC%EC%99%80%20%EC%8B%9C%EA%B0%84%20%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
+25. 2/09 - [iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.]()
+26. 2/09 - [동적 프로그래밍(Dynamic Programming)의 개념을 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/26.%EB%8F%99%EC%A0%81%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D(Dynamic%20Programming)%EC%9D%98%20%EA%B0%9C%EB%85%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
 
 ## 🏝 커밋 규칙
 
