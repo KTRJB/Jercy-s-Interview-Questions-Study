@@ -15,7 +15,8 @@
 - [제르시 면접질문](https://github.com/JeaSungLEE/iOSInterviewquestions?tab=readme-ov-file)
 
 ## 리스트
-### Level0
+<details>
+<summary><b>Level0</b></summary>
 1. 11/07 - [컴퓨터 시스템에서 CPU, RAM, 저장 장치의 역할과 이들이 어떻게 상호 작용하는지 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/01.%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C%20CPU%2C%20RAM%2C%20%EC%A0%80%EC%9E%A5%20%EC%9E%A5%EC%B9%98%EC%9D%98%20%EC%97%AD%ED%95%A0%EA%B3%BC%20%EC%9D%B4%EB%93%A4%EC%9D%B4%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%83%81%ED%98%B8%20%EC%9E%91%EC%9A%A9%ED%95%98%EB%8A%94%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 2. 11/07 - [캐시 메모리의 개념과 역할에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/02.%20%EC%BA%90%EC%8B%9C%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%97%AD%ED%95%A0%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 3. 11/07 - [CPU 아키텍처의 종류(예: ARM, x86)와 각 특징에 대해 설명해주세요.](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/03.%20CPU%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98%20%EC%A2%85%EB%A5%98(%EC%98%88%3A%20ARM%2C%20x86)%EC%99%80%20%EA%B0%81%20%ED%8A%B9%EC%A7%95.md)
@@ -51,6 +52,7 @@
 33. 3/08 - [싱글톤 패턴(Singleton Pattern)이란 무엇이며, 어떤 경우에 사용하나요?](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/33%2C%2034%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4(Singleton%20Pattern)%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0%2C%20%EC%96%B4%EB%96%A4%20%EA%B2%BD%EC%9A%B0%EC%97%90%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%82%98%EC%9A%94%3F.md)
 34. 3/08 - [Swift에서 싱글톤 패턴을 구현할 때 멀티스레드에 대해서 어떻게 고려해야 하나요?](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/33%2C%2034%20%EC%8B%B1%EA%B8%80%ED%86%A4%20%ED%8C%A8%ED%84%B4(Singleton%20Pattern)%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0%2C%20%EC%96%B4%EB%96%A4%20%EA%B2%BD%EC%9A%B0%EC%97%90%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%82%98%EC%9A%94%3F.md)
 35. 3/08 - [Array와 List의 차이점이 무엇인지 설명해주세요](https://github.com/KTRJB/Jercy-s-Interview-Questions-Study/blob/main/01%20-%20Lv.0/35.%20Array%EC%99%80%20List%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%20%EB%AC%B4%EC%97%87%EC%9D%B8%EC%A7%80%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md)
+</details>
 
 ## 🏝 커밋 규칙
 
